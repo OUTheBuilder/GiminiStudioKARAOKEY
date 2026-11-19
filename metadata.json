@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Kara-okay",
+  "description": "Karaoke app clone with offline library UI and online YouTube search mode.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
